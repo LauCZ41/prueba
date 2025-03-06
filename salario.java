@@ -9,6 +9,7 @@ public class salario {
         
         double newsalary = (salary*5)/100;
         double income = newsalary + salary;
+        System.out.println("fghjkl");
         
         System.out.println("Your new salary is: " + income);
     }
